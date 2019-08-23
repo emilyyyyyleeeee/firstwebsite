@@ -1,0 +1,70 @@
+body {
+  background-color:powderblue;
+}
+
+h1 {
+  color:#338AFF;
+  font-family:impact;
+  text-align:center;
+  font-size:500%;
+}
+
+.BUTTER {
+  font-family:courier;
+  color:#FA8072;
+  font-size:200%;
+  text-align:center;
+}
+
+h2 {
+  font-family:courier;
+  color:white;
+  background-color:pink;
+  font-size:200%;
+  text-align:center;
+}
+
+.important{
+  font-family:courier;
+  font-size:200%;
+}
+
+h3 {
+  font-family:courier;
+  background-color:#a15fed;
+  font-size:200%;
+  text-align:center;
+  color:white;
+}
+
+.bab {
+  font-family:courier;
+  font-size:200%;
+}
+
+h4 {
+  font-family:courier;
+  background-color:#4287f5;
+  font-size:200%;
+  text-align:center;
+  color:white;
+}
+
+ol {
+  font-family:courier;
+  font-size:120%;
+}
+
+div {
+  border: 10px solid #f7ad59;
+}
+
+.em {
+  font-family:courier;
+  font-size:300%;
+  text-align:center;
+}
+
+a {
+  color:#0f53ff;
+}
